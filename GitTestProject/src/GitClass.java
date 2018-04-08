@@ -5,6 +5,7 @@ public class GitClass {
 		// TODO Auto-generated method stub
 System.out.println("First Commit");
 System.out.println("second commit");
+System.out.println("Third change");
 	}
 
 }
